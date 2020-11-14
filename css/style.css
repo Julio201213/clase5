@@ -1,0 +1,34 @@
+/*EStilos para el contenedor ventas*/
+#Venta{
+    border: 2px solid  lightblue;
+}
+
+/*EStilos para el botón ventas*/
+#Boton{
+    display: block;
+    margin: 10px auto;
+}
+
+/*EStilos para el selector de los campos de la factura*/
+.Compu{
+    display: block;
+    margin: 0 auto;
+}
+
+/*Estilos del contenedor de orden de ventas*/
+#OrdenC{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid  lightblue;
+    width: 500px;
+}
+
+#titlogo{
+	 width: 10px;
+	 height:10px;
+}
+
+#logo{
+    height: 80px;
+    width: 80px;
+}
